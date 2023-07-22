@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi there 👋, my name is Harshit
+#### Tech enthusiast
 
-<!--
-**HarshitC-27/HarshitC-27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on Robotics and Software Development 
+- 🌱 I’m currently learning Algorithms 
+- 👯 I’m looking to collaborate on All sorts of technical stuff 
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/HarshitC-27)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/harshit-chaudhary-2627b3226//)  
+
+![GitHub metrics](https://metrics.lecoq.io/HarshitC-27) 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HarshitC-27)](https://github.com/anuraghazra/github-readme-stats)
+
+
